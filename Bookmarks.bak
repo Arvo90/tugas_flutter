@@ -1,0 +1,110 @@
+{
+   "checksum": "0fa2d6df25bdc80e6c9d6c1f3868f85e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13326857715599122",
+               "date_last_used": "0",
+               "guid": "eb6da968-b726-45a2-843e-60c0f64ada9a",
+               "id": "16",
+               "name": "(PDF) Uji Validitas Dan Reliabilitas | unina safitri - Academia.edu",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.academia.edu/5170798/Uji_Validitas_Dan_Reliabilitas"
+            } ],
+            "date_added": "13326857733016909",
+            "date_last_used": "0",
+            "date_modified": "13326857733016909",
+            "guid": "3ec492b6-2798-4c9c-9f6e-8b69ae8220b0",
+            "id": "15",
+            "name": "Data Kuliah",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13326972946912504",
+            "date_last_used": "13328626125919571",
+            "guid": "e89e33ca-f732-4902-bb8d-b83a9be9d7b1",
+            "id": "17",
+            "name": "Login - Single Sign On - Universitas Jember",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://sso.unej.ac.id/cas/login?service=https%3A%2F%2Fsiakad.unej.ac.id%2Fsite%2Flogincas"
+         }, {
+            "date_added": "13328626010084414",
+            "date_last_used": "0",
+            "guid": "9e97bda5-26cd-443a-a58c-57b7d2b336e9",
+            "id": "18",
+            "name": "Plagiarism Checker | 100% Free and Accurate - Duplichecker",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.duplichecker.com/"
+         }, {
+            "date_added": "13351158966608156",
+            "date_last_used": "0",
+            "guid": "36d3b01d-dfdb-4442-8862-2196812ac368",
+            "id": "9",
+            "name": "Lenovo Support",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://support.lenovo.com/"
+         }, {
+            "date_added": "13351158966607992",
+            "date_last_used": "0",
+            "guid": "78b2ea94-e3ac-46e3-952f-813145898be2",
+            "id": "8",
+            "name": "Lenovo",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.lenovo.com/"
+         }, {
+            "date_added": "13351158966607052",
+            "date_last_used": "0",
+            "guid": "18aed2fb-20e5-41c1-a090-f14514fdc4dd",
+            "id": "7",
+            "name": "McAfee",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/lenovo.html"
+         } ],
+         "date_added": "13351158966402408",
+         "date_last_used": "0",
+         "date_modified": "13354362694191148",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13351158966402410",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13351158966402411",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjMKDgiIgQISCBP55pqNAQAAEgAgASoYeEsvNkt2NEYvSUdKT1hzWjBoRnhXdz09SAOgBgwSqAEIEhKjAQocSVVJNExwQXRPU2hhNXB5VmxjVk00S0dEM2tRPRIkOWU5N2JkYTUtMjZjZC00NDNhLWE1OGMtNTdiN2QyYjMzNmU5GAAgAigCMLnqldfZMTiZ3a7IjDFA8LGV19kxShxsd1NZZ2g4THJnL0ZqTnJFK1N6cWEwVTZjSzA9Wh8iHe1pZDdUWlErWm5ZTU14Tksrem0rNjRkT0FSR289ZQv2XlYSqAEIERKjAQocVlFKak1LOVZuOWZJSCthSk1ZUFNwdE54NSt3PRIkZTg5ZTMzY2EtZjczMi00OTAyLWJiOGQtYjgzYTliZTlkN2IxGAAgAigCMLjqldfZMTjw3K7IjDFA77GV19kxShxIeUtrTlBEaVkwTmJPTTZwdFMzeGtXcld6dUU9Wh8iHbdBbGppUk9UaEJKcStiZzYzQWRJS0Z5MjJxZkk9ZY39nZASpwEIEBKiAQocQ3BMNkxFUkxJTXpRS21xM0xqQTJuTW9NWVZvPRIkZWI2ZGE5NjgtYjcyNi00NWEyLTg0M2UtNjBjMGY2NGFkYTlhGAAgACgAMMLZrsiMMTja3K7IjDFA2tyuyIwxShxpbjFtVnh0cTdBUGxkNHFxNnZnZVRxTmcwVTg9Wh4iHFFsVjVpY3RTTjNHNm1VYTlyRzJYNEt2Wkxiaz1l2FW0NBKnAQgPEqIBChxGVHFxaUMyL2ZOeU5oTmJsWGFLZEEzMW5lTHc9EiQzZWM0OTJiNi0yNzk4LTRjOWMtOWY2ZS04YjY5YWU4MjIwYjAYACAAKAAwwdmuyIwxOJrcrsiMMUCa3K7IjDFKHDBLV2R5L0RNOExQT0sxcURLNlU0OGlxc0FaVT1aHiIcb0RsaFNza1hpQkdVaTlpQkVWeEZFMW0rdFdrPWUAAAAAEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGI0ZTZkNjdmLWMwZTAtNTI5ZS1hOWUwLTI5NjNlNDQzMTc1NRgAIAAoADCs4NO4gzE47uXTuIMxQO7l07iDMUocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkZWY0ZDIzNjgtNTNhYi01MGQxLTk5ODEtZWIxYTkwY2ZlZjlkGAAgACgAMK3g07iDMTiT5tO4gzFAk+bTuIMxShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQyOGFjN2VkMy1lODk4LTUxZjYtOGY0Zi1lYzI1YWJkZDQxYTEYACAAKAAwsuDTuIMxOKDn07iDMUCg59O4gzFKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAMAA4AA==",
+   "version": 1
+}
